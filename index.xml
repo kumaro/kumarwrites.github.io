@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Site </title>
-		<link>http://example.org/</link>
+		<title>Kumar Garapati&#39;s Writings </title>
+		<link>https://kumarwrites.com/</link>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<author></author>
+		<author>Kumar Garapati</author>
 		<rights>Copyright (c) 1</rights>
 		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
 			<title>About Me</title>
-			<link>http://example.org/about-me/</link>
+			<link>https://kumarwrites.com/about-me/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>http://example.org/about-me/</guid>
-			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://example.org/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<author>Kumar Garapati</author>
+			<guid>https://kumarwrites.com/about-me/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kumarwrites.com/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;&lt;em&gt;I also write on my &lt;a href=&#34;https://www.confluent.io/blog/author/robin/&#34;&gt;employer&amp;rsquo;s blog&lt;/a&gt; (&lt;a href=&#34;http://ritt.md/rmoff&#34;&gt;previously&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;whoami&#34;&gt;&lt;code&gt;whoami&lt;/code&gt;&lt;/h3&gt;
@@ -47,8 +47,8 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;mugshots&#34;&gt;Mugshots&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;http://example.org/images/2018/05/ksldn18-01.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;http://example.org/images/2018/05/robin-moffatt-600px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kumarwrites.com/images/2018/05/ksldn18-01.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://kumarwrites.com/images/2018/05/robin-moffatt-600px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
 		</item>
 		
